@@ -1,0 +1,2 @@
+rootProject.name = "alfagift-ci-cd"
+include ':app'
